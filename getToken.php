@@ -31,7 +31,7 @@ $result =  file_get_contents (
                   $context);
 $jsonresult = json_decode($result);
 $token = $jsonresult->accessToken;
-//print_r("the token: ".$token);
+print_r("the token: ".$token);
 return $token;
 
 ?>

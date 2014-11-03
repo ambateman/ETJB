@@ -1,0 +1,17 @@
+<html>
+<title>
+</title>
+<head>
+</head>
+<body>
+
+<form name="input" action="http://localhost/JourneyBuilderPHP/phpcurl.php" method="Post">
+Trigger Name: <input type="text" name="triggername"><br/>
+Contact-Event Key:<input type="text" name="contacteventkey"><br/>
+Email Address:<input type="text" name="emailaddress"><br/>
+
+<input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
