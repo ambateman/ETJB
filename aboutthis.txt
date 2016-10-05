@@ -1,0 +1,1 @@
+This is nothing more than a copy of the PHP based client example for ExactTarget Journey Builder by Salesforce. Some of the files were modified, but the code is mostly from Salesforce.
